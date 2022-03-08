@@ -8,4 +8,7 @@
 <br>
 <p>All available words can be found in components folder.</p>
 <br>
+<a href="http://abtranslator.herokuapp.com">LIVE DEMO</a>
+<br>
 <p>Application is based on the idea of <a href="https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/american-british-translator">freeCodeCamp</a></p>
+<
