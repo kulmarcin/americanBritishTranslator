@@ -7,8 +7,7 @@
 <p>Translated: 'I have seen <strong>caving ladybird</strong> on a <strong>pavement</strong>'</p>
 <br>
 <p>All available words can be found in components folder.</p>
-<br>
 <a href="http://abtranslator.herokuapp.com">LIVE DEMO</a>
 <br>
 <br>
-<p>Application is based on the idea of <a href="https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/american-british-translator">freeCodeCamp</a></p>
+<p>Application is based on <a href="https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/american-british-translator">this</a> idea</p>
